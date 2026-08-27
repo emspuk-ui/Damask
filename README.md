@@ -1,2 +1,2 @@
 # Damask
-A free, portable Windows tag editor and media library — for audio and video alike.
+Portable Windows tag editor and media library for audio and video — batch editing, online metadata, acoustic fingerprinting. No installer, no telemetry.
